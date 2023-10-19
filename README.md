@@ -1,9 +1,8 @@
-### Hi there 👋
 
-<!--
-**ray-says/ray-says** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+preview
+<h1 align="center">Hi 👋, I'm Sayan Roy</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,26 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17647
-Fork on GitHub
-5159
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Sayan Roy</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-says&label=Profile%20views&color=0e75b6&style=flat" alt="ray-says" /> </p>
 
