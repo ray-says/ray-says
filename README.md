@@ -28,4 +28,4 @@ preview
 
 <p dir="auto"><strong>Visitors Count</strong></p>
 
-![Visitor Count](https://profile-counter.glitch.me/{CUBuffs}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{ray-says}/count.svg)
