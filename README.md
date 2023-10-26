@@ -26,3 +26,6 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ray-says&show_icons=true&locale=en" alt="ray-says" /></p>
 
+<p dir="auto"><strong>Visitors Count</strong></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{CUBuffs}/count.svg)
