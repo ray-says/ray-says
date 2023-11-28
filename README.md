@@ -22,8 +22,6 @@ preview
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-says&label=Profile%20views&color=0e75b6&style=flat" alt="ray-says" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/roy-sayan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/roy-sayan/" height="30" width="40" /></a>
