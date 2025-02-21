@@ -21,7 +21,7 @@ preview
 <a href="https://instagram.com/sayan__ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan__ray" height="30" width="40" /></a>
 </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ray-says&show_icons=true&theme=synthwave)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ray-says&show_icons=true&theme=gruvbox)
 
 <p dir="auto"><strong>Visitors Count</strong></p>
 
