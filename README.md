@@ -12,7 +12,9 @@ preview
 
 - 🎓 I’m a current Computer science (Data Science) graduate student at University of Colorado Boulder
 - ⚡ I’m currently building ReSumate & Skip it.
-- 📫 How to reach me: (https://www.sayanray.com/#/contact)
+- 📫 How to reach me: <a href="https://www.sayanray.com/#/contact" target="_blank" rel="noreferrer" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: #fff; border-radius: 5px; text-decoration: none; font-weight: bold;">
+  Contact Me
+</a>
 
 
 <h3 align="left">Connect with me:</h3>
