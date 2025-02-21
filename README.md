@@ -12,7 +12,7 @@ preview
 
 - 🎓 I’m a current Computer science (Data Science) graduate student at University of Colorado Boulder
 - ⚡ I’m currently building ReSumate & Skip it.
-- 📫 How to reach me: [sr.roysayan@gmail.com](https://www.sayanray.com/#/contact)
+- 📫 How to reach me: (https://www.sayanray.com/#/contact)
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,7 +21,7 @@ preview
 <a href="https://instagram.com/sayan__ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayan__ray" height="30" width="40" /></a>
 </p>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kirandevihosur74&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ray-says&show_icons=true&theme=radical)
 
 <p dir="auto"><strong>Visitors Count</strong></p>
 
